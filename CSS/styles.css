@@ -1,0 +1,780 @@
+.home {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.body {
+  position: absolute;
+  color: white;
+}
+
+.logo {
+  position: absolute;
+  top: 55px;
+  left: 45px;
+}
+
+.s {
+  position: fixed;
+}
+
+.explore {
+  color: black;
+  position: fixed;
+  bottom: 240px;
+  right: 330px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  background-color: grey;
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  text-align: center;
+}
+
+.a {
+  position: fixed;
+  bottom: 345px;
+  right: 400px;
+  cursor: pointer;
+  color: black;
+}
+
+.travel {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: lightgrey;
+  font-weight: bolder;
+  word-spacing: 2px;
+}
+
+.content {
+  position: relative;
+top: 400px;
+left: 300px;
+}
+
+.space {
+  font-size: 80px;
+  line-height: 1px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.face {
+  font-size: 20px;
+  line-height: 1.5;
+  color: lightgrey;
+  font-family: 'Roboto', sans-serif;
+}
+
+.destination {
+  position: absolute;
+  font-size: 50px;
+  top: 600px;
+  left: 200px;
+}
+
+.crew {
+  position: absolute;
+  font-size: 50px;
+  top: 600px;
+  left: 900px;
+}
+
+.technology {
+  position: absolute;
+  font-size: 50px;
+  top: 600px;
+  left: 1400px;
+}
+
+a:link {
+  color: lightgrey;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lightgrey;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightgrey;
+  text-decoration: underline;
+}
+
+a:active {
+  color: lightgrey;
+  text-decoration: underline;
+}
+
+.welcome {
+  position: relative;
+  font-size: 100px;
+  color: #FF9F29;
+  text-align: center;
+  top: 150px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.please {
+  position: relative;
+  font-size: 50px;
+  color: #FF9F29;
+  text-align: center;
+  top: 80px;
+  font-family: 'Great Vibes', cursive;
+}
+
+.photo {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.picture {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.moon {
+  position: absolute;
+  font-size: 45px;
+  font-family: 'Roboto', sans-serif;
+  color: lightgrey;
+  left: 200px;
+  bottom: 400px;
+}
+
+.mars {
+  position: absolute;
+  font-size: 45px;
+  font-family: 'Roboto', sans-serif;
+  color: lightgrey;
+  left: 600px;
+  bottom: 400px;
+}
+
+.europa {
+  position: absolute;
+  font-size: 45px;
+  font-family: 'Roboto', sans-serif;
+  color: lightgrey;
+  right: 700px;
+  bottom: 400px;
+}
+
+.titan {
+  position: absolute;
+  font-size: 45px;
+  font-family: 'Roboto', sans-serif;
+  color: lightgrey;
+  right: 300px;
+  bottom: 400px;
+}
+
+.image-moon {
+  position: fixed;
+  top: 350px;
+  left: 250px;
+}
+
+.photo-1 {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+.moon-h1 {
+  position: absolute;
+  font-size: 100px;
+  color: lightgrey;
+  font-family:  cursive;
+  right: 500px;
+  bottom: 500px;
+}
+
+.home-hr1 {
+  position: absolute;
+  height: 50px;
+  width: 0px;
+  color: lightgrey;
+  left: 720px;
+  bottom: 350px;
+}
+
+.home-hr2 {
+  position: absolute;
+  height: 50px;
+  width: 0px;
+  color: lightgrey;
+  right: 680px;
+  bottom: 350px;
+}
+
+.moon-h2 {
+  position: absolute;
+  font-size: 20px;
+  color: lightgrey;
+  font-weight: lighter;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
+  bottom: 350px;
+  right: 350px;
+}
+
+.moon-h1-1 {
+  position: absolute;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: lightgrey;
+  top: 220px;
+  left: 250px;
+
+}
+
+.span-01 {
+  color: darkgrey;
+}
+
+.moon-hr1 {
+position: absolute;
+height: 0px;
+width: 600px;
+background-color: yellow;
+right: 270px;
+bottom: 300px;
+}
+
+.moon-h2-2 {
+  position: absolute;
+  font-size: 20px;
+  color: lightgrey;
+  font-weight: lighter;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
+  bottom: 200px;
+  right: 690px;
+}
+
+.moon-h2-3 {
+  position: absolute;
+  font-size: 20px;
+  color: lightgrey;
+  font-weight: lighter;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
+  bottom: 200px;
+  right: 350px;
+}
+
+.moon-h3-1 {
+  position: absolute;
+  font-size: 35px;
+  color: darkgrey;
+  bottom: 120px;
+  right: 640px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.moon-h3-2 {
+  position: absolute;
+  font-size: 35px;
+  color: darkgrey;
+  bottom: 120px;
+  right: 400px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.mars-h3-2 {
+  position: absolute;
+  font-size: 35px;
+  color: darkgrey;
+  bottom: 120px;
+  right: 340px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.moon-mars {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 880px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.moon-europa {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 530px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.moon-titan {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 200px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.moon-hr3 {
+  position: absolute;
+  height: 30px;
+  width: 0px;
+  color: lightgrey;
+  top: 45px;
+  right: 400px;
+}
+
+.moon-hr2 {
+  position: absolute;
+  height: 30px;
+  width: 0px;
+  color: lightgrey;
+  top: 45px;
+  right: 750px;
+}
+
+.destination-hr1 {
+  position: absolute;
+  height: 50px;
+  width: 0px;
+  color: lightgrey;
+  bottom: 395px;
+  left: 470px;
+}
+
+.destination-hr2 {
+  position: absolute;
+  height: 50px;
+  width: 0px;
+  color: lightgrey;
+  bottom: 395px;
+  left: 900px;
+}
+
+.destination-hr3 {
+  position: absolute;
+  height: 50px;
+  width: 0px;
+  color: lightgrey;
+  bottom: 395px;
+  right: 550px;
+}
+
+.destination-h1 {
+  position: absolute;
+  font-size: 70px;
+  color: lightgrey;
+  font-family: 'Dancing Script', cursive;
+  left: 360px;
+  top: 200px;
+}
+
+.moon-crew {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  left: 50px;
+  bottom: 50px;
+}
+
+.mars-moon {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 880px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.mars-europa {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 530px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.mars-titan {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 200px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.europa-moon {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 880px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.europa-mars {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 530px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.europa-titan {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 200px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.europa-h3-2 {
+  position: absolute;
+  font-size: 35px;
+  color: darkgrey;
+  bottom: 120px;
+  right: 380px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.europa-h1 {
+  position: absolute;
+  font-size: 100px;
+  color: lightgrey;
+  font-family:  cursive;
+  right: 440px;
+  bottom: 500px;
+}
+
+.titan-moon {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 880px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.titan-mars {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 530px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.titan-europa {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 200px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.titan-h3-1 {
+  position: absolute;
+  font-size: 35px;
+  color: darkgrey;
+  bottom: 120px;
+  right: 660px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.titan-h3-2 {
+  position: absolute;
+  font-size: 35px;
+  color: darkgrey;
+  bottom: 120px;
+  right: 380px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.crew-h1-1 {
+  position: absolute;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: lightgrey;
+  top: 280px;
+  left: 200px;
+}
+
+.commander {
+  position: absolute;
+  font-size: 30px;
+  color: darkgrey;
+  top: 450px;
+  left: 200px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.crew-h2-1 {
+  position: absolute;
+  font-size: 45px;
+  color: lightgrey;
+  top: 500px;
+  left: 200px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.crew-h2-2 {
+  position: absolute;
+  font-size: 20px;
+  color: lightgrey;
+  font-weight: lighter;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
+  bottom: 200px;
+  left: 200px;
+}
+
+.crew-image1 {
+  position: absolute;
+  right: 100px;
+  bottom: 00px;
+}
+
+.crew-home {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 840px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.crew-destination {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 490px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.crew-technology {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 150px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.btn1 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #2C3333;
+  text-align: center;
+  top: 370px;
+  left: 250px;
+}
+
+.btn-h1-1 {
+  position: absolute;
+  font-size: 35px;
+  left: 17px;
+  top: 5px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.btn2 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #2C3333;
+  text-align: center;
+  top: 370px;
+  left: 350px;
+}
+
+.btn-h1-2 {
+  position: absolute;
+  font-size: 35px;
+  left: 17px;
+  top: 5px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.btn3 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #2C3333;
+  text-align: center;
+  top: 370px;
+  left: 450px;
+}
+
+.btn-h1-3 {
+  position: absolute;
+  font-size: 35px;
+  left: 17px;
+  top: 5px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.btn4 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #2C3333;
+  text-align: center;
+  top: 370px;
+  left: 550px;
+}
+
+.btn-h1-4 {
+  position: absolute;
+  font-size: 35px;
+  left: 17px;
+  top: 5px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.tech-h1-1 {
+  position: absolute;
+  font-size: 23px;
+  font-family: 'Roboto', sans-serif;
+  color: lightgrey;
+  top: 220px;
+  left: 180px;
+}
+
+.btn5 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #2C3333;
+  text-align: center;
+  top: 470px;
+  left: 180px;
+}
+
+.btn-h2-1 {
+  position: absolute;
+  font-size: 45px;
+  left: 25px;
+  top: 8px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.btn6 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #2C3333;
+  text-align: center;
+  top: 570px;
+  left: 180px;
+}
+
+.btn-h2-2 {
+  position: absolute;
+  font-size: 45px;
+  left: 22px;
+  top: 8px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.btn7 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #2C3333;
+  text-align: center;
+  top: 670px;
+  left: 180px;
+}
+
+.btn-h2-3 {
+  position: absolute;
+  font-size: 45px;
+  left: 22px;
+  top: 8px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.tech-h2-1 {
+  position: absolute;
+  color: darkgrey;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  top: 450px;
+  left: 350px;
+}
+
+.tech-h2-2 {
+  position: absolute;
+  font-size: 45px;
+  color: lightgrey;
+  top: 470px;
+  left: 350px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.tech-h2-3 {
+  position: absolute;
+  font-size: 20px;
+  color: lightgrey;
+  font-weight: lighter;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
+  bottom: 170px;
+  left: 350px;
+}
+
+.tech-image1 {
+  position: absolute;
+  right: 0;
+  bottom: 100px;
+}
+
+.tech-crew {
+  position: absolute;
+  font-size: 30px;
+  color: lightgrey;
+  right: 250px;
+  top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.tech-h3-3 {
+  position: absolute;
+  font-size: 20px;
+  color: lightgrey;
+  font-weight: lighter;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
+  bottom: 200px;
+  left: 350px;
+}
